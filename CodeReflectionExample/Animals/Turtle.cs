@@ -1,9 +1,7 @@
-﻿using CodeReflectionExample.Attributes;
-using CodeReflectionExample.Interfaces;
+﻿using CodeReflectionExample.Interfaces;
 
 namespace CodeReflectionExample.Animals
 {
-    [Mute]
     internal class Turtle : IAnimal
     {
         public string Name { get; set; }

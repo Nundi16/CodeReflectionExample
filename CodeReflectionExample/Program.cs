@@ -1,6 +1,4 @@
-﻿
-
-using CodeReflectionExample;
+﻿using CodeReflectionExample;
 
 internal class Program
 {
